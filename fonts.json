@@ -1489,5 +1489,12 @@
     "size": 100008,
     "type": "file",
     "sha": "1767626079673"
+  },
+  {
+    "name": "UNBangla-Bold.ttf",
+    "path": "UNBangla-Bold.ttf",
+    "size": 81056,
+    "type": "file",
+    "sha": "1767626091436"
   }
 ]

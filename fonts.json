@@ -1482,5 +1482,12 @@
     "size": 99220,
     "type": "file",
     "sha": "1767626059099"
+  },
+  {
+    "name": "Terracotta-Regular.ttf",
+    "path": "Terracotta-Regular.ttf",
+    "size": 100008,
+    "type": "file",
+    "sha": "1767626079673"
   }
 ]

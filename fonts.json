@@ -2035,5 +2035,26 @@
     "size": 83204,
     "type": "file",
     "sha": "1769530949026"
+  },
+  {
+    "name": "Azad-Feni-Unicode.otf",
+    "path": "Azad-Feni-Unicode.otf",
+    "size": 88244,
+    "type": "file",
+    "sha": "1769850448825"
+  },
+  {
+    "name": "Bangla Font 2.ttf",
+    "path": "Bangla Font 2.ttf",
+    "size": 138552,
+    "type": "file",
+    "sha": "1769850448755"
+  },
+  {
+    "name": "Bangla Font.otf",
+    "path": "Bangla Font.otf",
+    "size": 79264,
+    "type": "file",
+    "sha": "1769850448765"
   }
 ]

@@ -3358,5 +3358,47 @@
     "size": 173000,
     "type": "file",
     "sha": "1776348468096"
+  },
+  {
+    "name": "CheckIcons (1).ttf",
+    "path": "CheckIcons (1).ttf",
+    "size": 22884,
+    "type": "file",
+    "sha": "1776834663824"
+  },
+  {
+    "name": "CheckIcons.ttf",
+    "path": "CheckIcons.ttf",
+    "size": 22884,
+    "type": "file",
+    "sha": "1776834664260"
+  },
+  {
+    "name": "edosz.ttf",
+    "path": "edosz.ttf",
+    "size": 48820,
+    "type": "file",
+    "sha": "1776834664124"
+  },
+  {
+    "name": "FN Mahin Aklima Italic.ttf",
+    "path": "FN Mahin Aklima Italic.ttf",
+    "size": 469636,
+    "type": "file",
+    "sha": "1776834663776"
+  },
+  {
+    "name": "FN Mahin Aklima Regular.ttf",
+    "path": "FN Mahin Aklima Regular.ttf",
+    "size": 444180,
+    "type": "file",
+    "sha": "1776834663815"
+  },
+  {
+    "name": "font frames.ttf",
+    "path": "font frames.ttf",
+    "size": 230764,
+    "type": "file",
+    "sha": "1776834664040"
   }
 ]

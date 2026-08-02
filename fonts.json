@@ -8531,5 +8531,19 @@
     "size": 93168,
     "type": "file",
     "sha": "1785648476126"
+  },
+  {
+    "name": "FL Nirmol Bangla Italic.ttf",
+    "path": "FL Nirmol Bangla Italic.ttf",
+    "size": 93048,
+    "type": "file",
+    "sha": "1785648496070"
+  },
+  {
+    "name": "FL Nirmol Bangla Regular.ttf",
+    "path": "FL Nirmol Bangla Regular.ttf",
+    "size": 87208,
+    "type": "file",
+    "sha": "1785648495961"
   }
 ]

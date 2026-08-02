@@ -8461,5 +8461,19 @@
     "size": 267676,
     "type": "file",
     "sha": "1785648338395"
+  },
+  {
+    "name": "FL The Speed Italic.ttf",
+    "path": "FL The Speed Italic.ttf",
+    "size": 85600,
+    "type": "file",
+    "sha": "1785648368943"
+  },
+  {
+    "name": "FL The Speed Regular.ttf",
+    "path": "FL The Speed Regular.ttf",
+    "size": 85560,
+    "type": "file",
+    "sha": "1785648368444"
   }
 ]

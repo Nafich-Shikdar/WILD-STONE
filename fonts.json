@@ -8517,5 +8517,19 @@
     "size": 78732,
     "type": "file",
     "sha": "1785648445877"
+  },
+  {
+    "name": "FL Maya Lipi Italic.ttf",
+    "path": "FL Maya Lipi Italic.ttf",
+    "size": 98796,
+    "type": "file",
+    "sha": "1785648476143"
+  },
+  {
+    "name": "FL Maya Lipi Regular.ttf",
+    "path": "FL Maya Lipi Regular.ttf",
+    "size": 93168,
+    "type": "file",
+    "sha": "1785648476126"
   }
 ]

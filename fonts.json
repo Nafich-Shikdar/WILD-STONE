@@ -8734,5 +8734,19 @@
     "size": 89420,
     "type": "file",
     "sha": "1785671794734"
+  },
+  {
+    "name": "BH Nil Bangla Brush Unicode Italic.ttf",
+    "path": "BH Nil Bangla Brush Unicode Italic.ttf",
+    "size": 644756,
+    "type": "file",
+    "sha": "1785672189521"
+  },
+  {
+    "name": "BH Nil Bangla Brush Unicode.ttf",
+    "path": "BH Nil Bangla Brush Unicode.ttf",
+    "size": 613176,
+    "type": "file",
+    "sha": "1785672189290"
   }
 ]

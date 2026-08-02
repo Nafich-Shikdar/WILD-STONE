@@ -8475,5 +8475,19 @@
     "size": 85560,
     "type": "file",
     "sha": "1785648368444"
+  },
+  {
+    "name": "FL Mukut Italic.ttf",
+    "path": "FL Mukut Italic.ttf",
+    "size": 319396,
+    "type": "file",
+    "sha": "1785648408206"
+  },
+  {
+    "name": "FL Mukut Regular.ttf",
+    "path": "FL Mukut Regular.ttf",
+    "size": 303780,
+    "type": "file",
+    "sha": "1785648408268"
   }
 ]

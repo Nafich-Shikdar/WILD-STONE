@@ -8503,5 +8503,19 @@
     "size": 84016,
     "type": "file",
     "sha": "1785648426754"
+  },
+  {
+    "name": "FL Tolowar Italic.ttf",
+    "path": "FL Tolowar Italic.ttf",
+    "size": 79100,
+    "type": "file",
+    "sha": "1785648445964"
+  },
+  {
+    "name": "FL Tolowar Regular.ttf",
+    "path": "FL Tolowar Regular.ttf",
+    "size": 78732,
+    "type": "file",
+    "sha": "1785648445877"
   }
 ]

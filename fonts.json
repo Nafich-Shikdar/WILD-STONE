@@ -8545,5 +8545,19 @@
     "size": 87208,
     "type": "file",
     "sha": "1785648495961"
+  },
+  {
+    "name": "FL Sobuj Maya Italic.ttf",
+    "path": "FL Sobuj Maya Italic.ttf",
+    "size": 89340,
+    "type": "file",
+    "sha": "1785648517889"
+  },
+  {
+    "name": "FL Sobuj Maya Regular.ttf",
+    "path": "FL Sobuj Maya Regular.ttf",
+    "size": 83844,
+    "type": "file",
+    "sha": "1785648518536"
   }
 ]

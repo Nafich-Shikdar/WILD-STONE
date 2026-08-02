@@ -8559,5 +8559,19 @@
     "size": 83844,
     "type": "file",
     "sha": "1785648518536"
+  },
+  {
+    "name": "FL Mayajal Italic.ttf",
+    "path": "FL Mayajal Italic.ttf",
+    "size": 79576,
+    "type": "file",
+    "sha": "1785648537735"
+  },
+  {
+    "name": "FL Mayajal Regular.ttf",
+    "path": "FL Mayajal Regular.ttf",
+    "size": 75216,
+    "type": "file",
+    "sha": "1785648537897"
   }
 ]

@@ -8433,5 +8433,19 @@
     "size": 89848,
     "type": "file",
     "sha": "1785234995191"
+  },
+  {
+    "name": "Suhasini Unicode Italic.ttf",
+    "path": "Suhasini Unicode Italic.ttf",
+    "size": 79656,
+    "type": "file",
+    "sha": "1785648287815"
+  },
+  {
+    "name": "Suhasini Unicode.ttf",
+    "path": "Suhasini Unicode.ttf",
+    "size": 79572,
+    "type": "file",
+    "sha": "1785648287829"
   }
 ]

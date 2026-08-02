@@ -8489,5 +8489,19 @@
     "size": 303780,
     "type": "file",
     "sha": "1785648408268"
+  },
+  {
+    "name": "FL Muktamala Modify Italic.ttf",
+    "path": "FL Muktamala Modify Italic.ttf",
+    "size": 91224,
+    "type": "file",
+    "sha": "1785648426126"
+  },
+  {
+    "name": "FL Muktamala Modify Regular.ttf",
+    "path": "FL Muktamala Modify Regular.ttf",
+    "size": 84016,
+    "type": "file",
+    "sha": "1785648426754"
   }
 ]

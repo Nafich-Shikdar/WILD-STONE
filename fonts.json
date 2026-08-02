@@ -8573,5 +8573,26 @@
     "size": 75216,
     "type": "file",
     "sha": "1785648537897"
+  },
+  {
+    "name": "Masud Mohanagar.ttf",
+    "path": "Masud Mohanagar.ttf",
+    "size": 149700,
+    "type": "file",
+    "sha": "1785648579780"
+  },
+  {
+    "name": "মাসউদ সীমান্ত.ttf",
+    "path": "মাসউদ সীমান্ত.ttf",
+    "size": 197228,
+    "type": "file",
+    "sha": "1785648579067"
+  },
+  {
+    "name": "মাসুদ নাজমুল.ttf",
+    "path": "মাসুদ নাজমুল.ttf",
+    "size": 150520,
+    "type": "file",
+    "sha": "1785648579733"
   }
 ]

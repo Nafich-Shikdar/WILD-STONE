@@ -1064,6 +1064,13 @@
     "sha": "dfc31b83b1443c49868d837400d0f1226f292cdd"
   },
   {
+    "name": "FL Modinar Ashek Matrahin Regular.ttf",
+    "path": "FL Modinar Ashek Matrahin Regular.ttf",
+    "size": 367528,
+    "type": "file",
+    "sha": "95729444ba7f70640a253aa196c9a7b0e1bf0afd"
+  },
+  {
     "name": "FL Muktamala Modify Italic.ttf",
     "path": "FL Muktamala Modify Italic.ttf",
     "size": 91224,
@@ -1986,6 +1993,13 @@
     "size": 113120,
     "type": "file",
     "sha": "b8d61bc17f5a36ab0e7e2b1a5c131f7f35a870e6"
+  },
+  {
+    "name": "Li Pushpo Kanon Unicode.ttf",
+    "path": "Li Pushpo Kanon Unicode.ttf",
+    "size": 274504,
+    "type": "file",
+    "sha": "aa321aedb5fa6c38aa11aca5cd04b22c7f886292"
   },
   {
     "name": "Li Sabbir Ashalota 3 Unicode.ttf",
@@ -7119,6 +7133,13 @@
     "sha": "3df3dfbb9f1bd81aab26dfaf94a28762c784234d"
   },
   {
+    "name": "মাসউদ_সীমান্ত_প্রিমিয়াম_ফন্ট (1).ttf",
+    "path": "মাসউদ_সীমান্ত_প্রিমিয়াম_ফন্ট (1).ttf",
+    "size": 197496,
+    "type": "file",
+    "sha": "eef07aa8f16f8db0771b7681ab6558a486bc7092"
+  },
+  {
     "name": "মাসউদ_সীমান্ত_প্রিমিয়াম_ফন্ট.ttf",
     "path": "মাসউদ_সীমান্ত_প্রিমিয়াম_ফন্ট.ttf",
     "size": 197496,
@@ -9497,26 +9518,5 @@
     "size": 257148,
     "type": "file",
     "sha": "8da98b2a61f0b7137f9899b1d63643db4e5eb216"
-  },
-  {
-    "name": "FL Modinar Ashek Matrahin Regular.ttf",
-    "path": "FL Modinar Ashek Matrahin Regular.ttf",
-    "size": 367528,
-    "type": "file",
-    "sha": "1785861202564"
-  },
-  {
-    "name": "Li Pushpo Kanon Unicode.ttf",
-    "path": "Li Pushpo Kanon Unicode.ttf",
-    "size": 274504,
-    "type": "file",
-    "sha": "1785861202308"
-  },
-  {
-    "name": "মাসউদ_সীমান্ত_প্রিমিয়াম_ফন্ট (1).ttf",
-    "path": "মাসউদ_সীমান্ত_প্রিমিয়াম_ফন্ট (1).ttf",
-    "size": 197496,
-    "type": "file",
-    "sha": "1785861202365"
   }
 ]

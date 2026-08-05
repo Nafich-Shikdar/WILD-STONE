@@ -2940,6 +2940,13 @@
     "sha": "cf8037c861e25985851a29bcb41380b60751a30d"
   },
   {
+    "name": "akka.ttf",
+    "path": "akka.ttf",
+    "size": 42280,
+    "type": "file",
+    "sha": "e921884c84e475fba579830245004c30130acb9d"
+  },
+  {
     "name": "b52 Nigor (personal use).ttf",
     "path": "b52 Nigor (personal use).ttf",
     "size": 497056,

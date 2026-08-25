@@ -5278,6 +5278,13 @@
     "sha": "399070af2c2a48cddc3adfa859762f25622c2323"
   },
   {
+    "name": "কারু কমল.ttf",
+    "path": "কারু কমল.ttf",
+    "size": 130372,
+    "type": "file",
+    "sha": "23a7f57388ac3cdd11fca24cc606ebe018b45a77"
+  },
+  {
     "name": "কিংবদন্তী.otf",
     "path": "কিংবদন্তী.otf",
     "size": 398888,
@@ -5437,6 +5444,13 @@
     "size": 158020,
     "type": "file",
     "sha": "3e399b80150d843272f5a0fff9a32041816fa03e"
+  },
+  {
+    "name": "ঘাসফুল.ttf",
+    "path": "ঘাসফুল.ttf",
+    "size": 90464,
+    "type": "file",
+    "sha": "ae6feb8783f775b96c2f99b0760dcfe95d8826ca"
   },
   {
     "name": "চতুষ্কোণ.ttf",
